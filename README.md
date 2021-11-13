@@ -1,6 +1,6 @@
 # Block Swap Brand Central Auction Clone
 
-This project was bootstrapped with [Alchemist](https://github.com/alchemist0404).
+This project was created by [Alchemist](https://github.com/alchemist0404).
 
 ## Available Scripts
 
